@@ -1,0 +1,11 @@
+.dfx/
+.mops/
+.vscode/
+node_modules/
+package-lock.json
+repomix-output.txt
+.env
+identity.json
+canister_ids.json
+generate_identity.js
+upload.js
